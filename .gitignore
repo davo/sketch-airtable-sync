@@ -1,0 +1,20 @@
+# Config
+src/secret.js
+
+# build artifacts
+plugin.sketchplugin
+
+# npm
+node_modules
+.npm
+npm-debug.log
+package-lock.json
+
+# mac
+.DS_Store
+
+# WebStorm
+.idea
+
+# VS Code
+.vscode/
